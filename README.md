@@ -1,4 +1,4 @@
-### Hi there 👋
+### Artificial Intelligence & Data engineering student at Technical University of Denmark (DTU)
 
 <!--
 **Mikel-Yu/Mikel-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
