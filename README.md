@@ -1,6 +1,6 @@
 ### Artificial Intelligence & Data engineering student at the Technical University of Denmark (DTU)
 - 📚 Currently studying Machine Learning & Data Mining, Calculus III, Algorithms & Data Structures, and Physics
-- 📫 For inquiries : LinkedIn
+- 📫 For inquiries, reach out to me on LinkedIn
 
 <!--
 **Mikel-Yu/Mikel-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
