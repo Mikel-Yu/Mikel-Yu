@@ -1,6 +1,6 @@
 - 🤓 I like numbers
 - 📚 Studying Artificial Intelligence & Data at Technical University of Denmark (DTU)
-- 📫 For inquiries, reach out to me on LinkedIn
+- 📫 For inquiries, reach out on LinkedIn
 
 <!--
 **Mikel-Yu/Mikel-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
