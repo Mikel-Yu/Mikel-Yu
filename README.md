@@ -1,4 +1,4 @@
-- 📚 I'm Currently studying Artificial Intelligence & Data at Technical University of Denmark
+- 📚 I'm currently studying Artificial Intelligence & Data at Technical University of Denmark
 - 📫 For inquiries, reach out to me on LinkedIn
 
 <!--
