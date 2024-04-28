@@ -1,5 +1,4 @@
-### Artificial Intelligence & Data engineering student at the Technical University of Denmark (DTU)
-- 📚 Currently studying Machine Learning & Data Mining, Calculus III, Algorithms & Data Structures, and Physics
+- 📚 I'm Currently studying Artificial Intelligence & Data at Technical University of Denmark
 - 📫 For inquiries, reach out to me on LinkedIn
 
 <!--
