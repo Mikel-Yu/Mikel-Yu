@@ -1,4 +1,5 @@
-- 📚 I'm currently studying Artificial Intelligence & Data at Technical University of Denmark (DTU)
+- 📚 Studying Artificial Intelligence & Data at Technical University of Denmark (DTU)
+- 🤓 I like numbers
 - 📫 For inquiries, reach out to me on LinkedIn
 
 <!--
