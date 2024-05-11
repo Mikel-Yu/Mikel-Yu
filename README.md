@@ -1,4 +1,3 @@
-- 🤓 I like numbers
 - 📚 Studying Artificial Intelligence & Data at Technical University of Denmark (DTU)
 - 📫 For inquiries, reach out on LinkedIn
 
