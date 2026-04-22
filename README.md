@@ -1,5 +1,6 @@
-- 📚 Studying Artificial Intelligence & Data at Technical University of Denmark (DTU)
-- 📫 For inquiries, reach out on LinkedIn
+- 📚 Studying B.Sc. Artificial Intelligence & Data at Technical University of Denmark (DTU)
+- 🧑🏽‍🔬 Currently working on my first publication. 
+- 📫 For inquiries, reach out on: s234812@dtu.dk
 
 <!--
 **Mikel-Yu/Mikel-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
