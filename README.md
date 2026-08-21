@@ -1,6 +1,6 @@
 - 📚 Studying B.Sc. Artificial Intelligence & Data at Technical University of Denmark (DTU)
-- 🧑🏽‍🔬 Currently working on my first publication.
-- 🤖 Interested in Scalable Oversight
+- 🧑🏽‍🔬 Currently working on my first two publications.
+- 🤖 Interested in AI Alignment, specifically Scalable Oversight
 - 📫 For inquiries, reach out on: s234812@dtu.dk
 
 <!--
