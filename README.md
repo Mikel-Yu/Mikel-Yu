@@ -1,6 +1,6 @@
 - 📚 Studying M.Sc. Human-Centered Artificial Intelligence at Technical University of Denmark (DTU)
 - 🧑🏽‍🔬 Currently working on my first two publications.
-- 🤖 Interested in AI Alignment, specifically Scalable Oversight
+- 🤖 Looking to transition into AI Safety/Alignment
 - 📫 For inquiries, reach out on: s234812@dtu.dk
 
 <!--
